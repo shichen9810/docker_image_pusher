@@ -7,3 +7,4 @@ xhofe/alist:latest
 pbellstedt/pylipid:latest
 rbgcsail/diffdock:latest
 ubuntu
+chainguard/conda
