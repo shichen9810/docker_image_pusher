@@ -8,3 +8,4 @@ pbellstedt/pylipid:latest
 rbgcsail/diffdock:latest
 ubuntu
 chainguard/conda
+sha256feng/charmm
