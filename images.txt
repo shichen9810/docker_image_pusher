@@ -7,6 +7,4 @@ xhofe/alist:latest
 pbellstedt/pylipid:latest
 rbgcsail/diffdock:latest
 ubuntu
-chainguard/conda
-sha256feng/charmm:44b2-lite
-ubuntu:16.10
+sulfurheron/nvidia-cuda:9.0-cudnn7-devel-ubuntu16.04-2018-06-08
