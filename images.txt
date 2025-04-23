@@ -9,3 +9,4 @@ rbgcsail/diffdock:latest
 ubuntu
 chainguard/conda
 sha256feng/charmm:44b2-lite
+pcpaquette/ubuntu-cuda9:20181127
